@@ -1,1 +1,1 @@
-# k8s.ory.sh.github.io
+#github.io
